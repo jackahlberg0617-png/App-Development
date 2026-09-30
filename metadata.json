@@ -1,0 +1,8 @@
+{
+  "name": "Better Safe Then Sorry - Chrome Extension",
+  "description": "Chrome extension created by Virginia Tech student Jack Ahlberg that highlights key clauses, flags privacy risks, calculates a safety score out of 10, and summarizes data policies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
